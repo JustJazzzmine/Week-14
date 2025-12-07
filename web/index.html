@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gothic Literature Analysis</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1>Gothic Literature Text Analysis</h1>
+            <p class="subtitle">Exploring five classic works through distant reading and computational analysis</p>
+        </header>
+
+        <!-- Navigation -->
+        <nav class="main-nav">
+            <button class="nav-btn active" data-mode="single">Single Text View</button>
+            <button class="nav-btn" data-mode="compare">Compare Texts</button>
+        </nav>
+
+        <!-- Single Text View -->
+        <div id="single-view" class="view-mode active">
+            <div class="sidebar">
+                <h3>Select a Text</h3>
+                <div id="text-list" class="text-list">
+                    <!-- Will be populated by JavaScript -->
+                </div>
+            </div>
+
+            <div class="main-content">
+                <div id="single-analysis" class="analysis-container">
+                    <div class="welcome-message">
+                        <h2>Welcome to the Gothic Literature Analysis Platform</h2>
+                        <p>Select a text from the sidebar to explore its linguistic features, sentiment, topics, and word cloud visualization.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Compare View -->
+        <div id="compare-view" class="view-mode">
+            <div class="compare-controls">
+                <div class="text-selector">
+                    <label for="text1-select">First Text:</label>
+                    <select id="text1-select" class="text-select">
+                        <option value="">-- Select Text --</option>
+                    </select>
+                </div>
+                <div class="text-selector">
+                    <label for="text2-select">Second Text:</label>
+                    <select id="text2-select" class="text-select">
+                        <option value="">-- Select Text --</option>
+                    </select>
+                </div>
+                <button id="compare-btn" class="compare-button">Compare</button>
+            </div>
+
+            <div id="comparison-results" class="comparison-container">
+                <div class="welcome-message">
+                    <h2>Comparative Text Analysis</h2>
+                    <p>Select two texts from the dropdowns above to compare their sentiment, vocabulary richness, topics, and stylistic features side-by-side.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer>
+            <p>Data sourced from Project Gutenberg | Analysis powered by VADER, NLTK, and Gensim</p>
+        </footer>
+    </div>
+
+    <!-- Load libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-cloud@1"></script>
+
+    <!-- Load main app -->
+    <script src="app.js"></script>
+</body>
+</html>
