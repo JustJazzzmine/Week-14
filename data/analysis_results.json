@@ -1,0 +1,1762 @@
+{
+  "The Strange Case of Dr. Jekyll and Mr. Hyde": {
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "sentiment": {
+      "scores": {
+        "positive": 0.0815,
+        "negative": 0.0808,
+        "neutral": 0.8377,
+        "compound": 0.0082
+      },
+      "overall": "neutral",
+      "sentences_analyzed": 956
+    },
+    "lexical_diversity": {
+      "total_words": 25366,
+      "unique_words": 3843,
+      "content_words": 11457,
+      "unique_content_words": 3707,
+      "type_token_ratio": 0.1515,
+      "content_ttr": 0.3236,
+      "root_ttr": 24.1293,
+      "lexical_density": 0.4517
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          {
+            "word": "poole",
+            "weight": 0.0233
+          },
+          {
+            "word": "guest",
+            "weight": 0.0069
+          },
+          {
+            "word": "cried",
+            "weight": 0.0046
+          },
+          {
+            "word": "take",
+            "weight": 0.0046
+          },
+          {
+            "word": "voice",
+            "weight": 0.0046
+          },
+          {
+            "word": "butler",
+            "weight": 0.0046
+          },
+          {
+            "word": "replied",
+            "weight": 0.0046
+          },
+          {
+            "word": "ay",
+            "weight": 0.0046
+          },
+          {
+            "word": "cabinet",
+            "weight": 0.0039
+          },
+          {
+            "word": "us",
+            "weight": 0.0039
+          }
+        ]
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          {
+            "word": "edward",
+            "weight": 0.009
+          },
+          {
+            "word": "lanyon",
+            "weight": 0.0071
+          },
+          {
+            "word": "enfield",
+            "weight": 0.0063
+          },
+          {
+            "word": "friend",
+            "weight": 0.005
+          },
+          {
+            "word": "evil",
+            "weight": 0.0047
+          },
+          {
+            "word": "child",
+            "weight": 0.0044
+          },
+          {
+            "word": "body",
+            "weight": 0.0043
+          },
+          {
+            "word": "street",
+            "weight": 0.0041
+          },
+          {
+            "word": "point",
+            "weight": 0.0038
+          },
+          {
+            "word": "bed",
+            "weight": 0.0038
+          }
+        ]
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          {
+            "word": "poole",
+            "weight": 0.0111
+          },
+          {
+            "word": "body",
+            "weight": 0.0075
+          },
+          {
+            "word": "cabinet",
+            "weight": 0.0074
+          },
+          {
+            "word": "lay",
+            "weight": 0.0063
+          },
+          {
+            "word": "death",
+            "weight": 0.0051
+          },
+          {
+            "word": "find",
+            "weight": 0.0051
+          },
+          {
+            "word": "dead",
+            "weight": 0.005
+          },
+          {
+            "word": "things",
+            "weight": 0.005
+          },
+          {
+            "word": "turned",
+            "weight": 0.005
+          },
+          {
+            "word": "fell",
+            "weight": 0.005
+          }
+        ]
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          {
+            "word": "poole",
+            "weight": 0.0062
+          },
+          {
+            "word": "lanyon",
+            "weight": 0.0059
+          },
+          {
+            "word": "master",
+            "weight": 0.0053
+          },
+          {
+            "word": "may",
+            "weight": 0.0047
+          },
+          {
+            "word": "many",
+            "weight": 0.0044
+          },
+          {
+            "word": "far",
+            "weight": 0.0041
+          },
+          {
+            "word": "soul",
+            "weight": 0.004
+          },
+          {
+            "word": "found",
+            "weight": 0.004
+          },
+          {
+            "word": "nothing",
+            "weight": 0.004
+          },
+          {
+            "word": "less",
+            "weight": 0.0039
+          }
+        ]
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          {
+            "word": "friend",
+            "weight": 0.009
+          },
+          {
+            "word": "letter",
+            "weight": 0.0083
+          },
+          {
+            "word": "poole",
+            "weight": 0.0057
+          },
+          {
+            "word": "sure",
+            "weight": 0.0056
+          },
+          {
+            "word": "heard",
+            "weight": 0.0056
+          },
+          {
+            "word": "replied",
+            "weight": 0.0056
+          },
+          {
+            "word": "looking",
+            "weight": 0.0055
+          },
+          {
+            "word": "swiftly",
+            "weight": 0.0054
+          },
+          {
+            "word": "figure",
+            "weight": 0.0053
+          },
+          {
+            "word": "city",
+            "weight": 0.0051
+          }
+        ]
+      }
+    ],
+    "word_frequencies": {
+      "utterson": 130,
+      "said": 130,
+      "hyde": 98,
+      "jekyll": 97,
+      "man": 84,
+      "one": 77,
+      "lawyer": 72,
+      "upon": 60,
+      "poole": 60,
+      "sir": 58,
+      "like": 56,
+      "would": 55,
+      "door": 50,
+      "could": 50,
+      "life": 48,
+      "well": 48,
+      "see": 47,
+      "even": 45,
+      "hand": 44,
+      "know": 43,
+      "must": 41,
+      "last": 40,
+      "face": 39,
+      "good": 39,
+      "doctor": 39,
+      "thought": 39,
+      "two": 38,
+      "house": 37,
+      "never": 36,
+      "came": 35,
+      "still": 35,
+      "lanyon": 34,
+      "great": 33,
+      "back": 32,
+      "yet": 31,
+      "name": 31,
+      "henry": 30,
+      "seemed": 30,
+      "began": 30,
+      "shall": 30,
+      "long": 29,
+      "way": 29,
+      "time": 29,
+      "might": 29,
+      "think": 29,
+      "night": 28,
+      "come": 28,
+      "something": 27,
+      "returned": 27,
+      "much": 27,
+      "old": 27,
+      "moment": 27,
+      "indeed": 26,
+      "mind": 26,
+      "set": 25,
+      "edward": 25,
+      "say": 24,
+      "looked": 24,
+      "saw": 24,
+      "day": 24,
+      "cabinet": 24,
+      "friend": 23,
+      "made": 23,
+      "make": 23,
+      "god": 23,
+      "first": 22,
+      "room": 22,
+      "may": 22,
+      "hands": 21,
+      "every": 21,
+      "side": 21,
+      "body": 21,
+      "nothing": 20,
+      "little": 20,
+      "another": 20,
+      "sat": 20,
+      "strange": 19,
+      "asked": 19,
+      "end": 19,
+      "part": 19,
+      "enough": 19,
+      "next": 19,
+      "eyes": 19,
+      "enfield": 18,
+      "seen": 18,
+      "thing": 18,
+      "open": 18,
+      "yes": 18,
+      "without": 18,
+      "master": 18,
+      "quite": 17,
+      "found": 17,
+      "though": 17,
+      "fire": 17,
+      "left": 17,
+      "away": 17,
+      "far": 17,
+      "take": 17,
+      "case": 16,
+      "let": 16
+    }
+  },
+  "Turning of the Screw": {
+    "title": "Turning of the Screw",
+    "sentiment": {
+      "scores": {
+        "positive": 0.0859,
+        "negative": 0.0617,
+        "neutral": 0.8523,
+        "compound": 0.1013
+      },
+      "overall": "positive",
+      "sentences_analyzed": 1000
+    },
+    "lexical_diversity": {
+      "total_words": 41655,
+      "unique_words": 4348,
+      "content_words": 17049,
+      "unique_content_words": 4200,
+      "type_token_ratio": 0.1044,
+      "content_ttr": 0.2463,
+      "root_ttr": 21.3037,
+      "lexical_density": 0.4093
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          {
+            "word": "miss",
+            "weight": 0.0112
+          },
+          {
+            "word": "young",
+            "weight": 0.0052
+          },
+          {
+            "word": "away",
+            "weight": 0.0049
+          },
+          {
+            "word": "next",
+            "weight": 0.0047
+          },
+          {
+            "word": "jessel",
+            "weight": 0.0046
+          },
+          {
+            "word": "anything",
+            "weight": 0.0042
+          },
+          {
+            "word": "matter",
+            "weight": 0.0039
+          },
+          {
+            "word": "done",
+            "weight": 0.0039
+          },
+          {
+            "word": "lost",
+            "weight": 0.0034
+          },
+          {
+            "word": "tell",
+            "weight": 0.0034
+          }
+        ]
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          {
+            "word": "person",
+            "weight": 0.005
+          },
+          {
+            "word": "right",
+            "weight": 0.0045
+          },
+          {
+            "word": "miss",
+            "weight": 0.0043
+          },
+          {
+            "word": "figure",
+            "weight": 0.0034
+          },
+          {
+            "word": "air",
+            "weight": 0.0034
+          },
+          {
+            "word": "presence",
+            "weight": 0.0034
+          },
+          {
+            "word": "second",
+            "weight": 0.0034
+          },
+          {
+            "word": "keep",
+            "weight": 0.0034
+          },
+          {
+            "word": "distance",
+            "weight": 0.0034
+          },
+          {
+            "word": "lake",
+            "weight": 0.0032
+          }
+        ]
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          {
+            "word": "good",
+            "weight": 0.0042
+          },
+          {
+            "word": "quint",
+            "weight": 0.0036
+          },
+          {
+            "word": "short",
+            "weight": 0.0036
+          },
+          {
+            "word": "given",
+            "weight": 0.0035
+          },
+          {
+            "word": "want",
+            "weight": 0.0034
+          },
+          {
+            "word": "dear",
+            "weight": 0.0034
+          },
+          {
+            "word": "going",
+            "weight": 0.0033
+          },
+          {
+            "word": "looking",
+            "weight": 0.0033
+          },
+          {
+            "word": "everything",
+            "weight": 0.0033
+          },
+          {
+            "word": "children",
+            "weight": 0.0032
+          }
+        ]
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          {
+            "word": "tell",
+            "weight": 0.008
+          },
+          {
+            "word": "close",
+            "weight": 0.008
+          },
+          {
+            "word": "stay",
+            "weight": 0.0064
+          },
+          {
+            "word": "kept",
+            "weight": 0.0049
+          },
+          {
+            "word": "mere",
+            "weight": 0.0049
+          },
+          {
+            "word": "ever",
+            "weight": 0.0034
+          },
+          {
+            "word": "struck",
+            "weight": 0.0034
+          },
+          {
+            "word": "beautiful",
+            "weight": 0.0034
+          },
+          {
+            "word": "next",
+            "weight": 0.0034
+          },
+          {
+            "word": "white",
+            "weight": 0.0034
+          }
+        ]
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          {
+            "word": "away",
+            "weight": 0.0046
+          },
+          {
+            "word": "stood",
+            "weight": 0.0042
+          },
+          {
+            "word": "whole",
+            "weight": 0.004
+          },
+          {
+            "word": "miss",
+            "weight": 0.004
+          },
+          {
+            "word": "till",
+            "weight": 0.0039
+          },
+          {
+            "word": "done",
+            "weight": 0.0038
+          },
+          {
+            "word": "tell",
+            "weight": 0.0037
+          },
+          {
+            "word": "also",
+            "weight": 0.0037
+          },
+          {
+            "word": "looking",
+            "weight": 0.0037
+          },
+          {
+            "word": "turn",
+            "weight": 0.0034
+          }
+        ]
+      }
+    ],
+    "word_frequencies": {
+      "little": 184,
+      "could": 135,
+      "one": 105,
+      "would": 105,
+      "grose": 103,
+      "see": 101,
+      "made": 101,
+      "never": 91,
+      "time": 83,
+      "might": 81,
+      "know": 79,
+      "much": 78,
+      "said": 74,
+      "well": 73,
+      "still": 72,
+      "nothing": 69,
+      "face": 68,
+      "us": 67,
+      "even": 66,
+      "way": 63,
+      "moment": 62,
+      "first": 61,
+      "oh": 61,
+      "without": 60,
+      "yet": 60,
+      "back": 59,
+      "felt": 59,
+      "must": 58,
+      "went": 57,
+      "miles": 57,
+      "say": 56,
+      "saw": 55,
+      "eyes": 54,
+      "quite": 52,
+      "came": 52,
+      "something": 51,
+      "looked": 51,
+      "miss": 50,
+      "things": 49,
+      "flora": 49,
+      "took": 48,
+      "go": 46,
+      "thing": 45,
+      "found": 45,
+      "like": 45,
+      "gave": 44,
+      "day": 44,
+      "come": 44,
+      "hand": 43,
+      "put": 43,
+      "yes": 43,
+      "turned": 42,
+      "long": 42,
+      "take": 42,
+      "course": 41,
+      "child": 40,
+      "place": 40,
+      "straight": 40,
+      "almost": 39,
+      "think": 39,
+      "great": 39,
+      "last": 39,
+      "seen": 39,
+      "house": 38,
+      "room": 38,
+      "mean": 38,
+      "get": 37,
+      "round": 36,
+      "tell": 36,
+      "indeed": 36,
+      "look": 36,
+      "window": 36,
+      "old": 35,
+      "got": 35,
+      "night": 35,
+      "knew": 34,
+      "really": 33,
+      "question": 33,
+      "sense": 33,
+      "away": 33,
+      "least": 33,
+      "boy": 32,
+      "make": 32,
+      "friend": 31,
+      "already": 31,
+      "small": 31,
+      "minute": 31,
+      "remember": 30,
+      "brought": 30,
+      "mind": 30,
+      "ever": 30,
+      "instant": 30,
+      "left": 30,
+      "hour": 30,
+      "appeared": 29,
+      "good": 29,
+      "done": 29,
+      "stood": 29,
+      "anything": 29,
+      "another": 28
+    }
+  },
+  "Dracula": {
+    "title": "Dracula",
+    "sentiment": {
+      "scores": {
+        "positive": 0.0909,
+        "negative": 0.0707,
+        "neutral": 0.8384,
+        "compound": 0.0552
+      },
+      "overall": "positive",
+      "sentences_analyzed": 1000
+    },
+    "lexical_diversity": {
+      "total_words": 159932,
+      "unique_words": 9000,
+      "content_words": 68928,
+      "unique_content_words": 8850,
+      "type_token_ratio": 0.0563,
+      "content_ttr": 0.1284,
+      "root_ttr": 22.5048,
+      "lexical_density": 0.431
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          {
+            "word": "count",
+            "weight": 0.0064
+          },
+          {
+            "word": "horses",
+            "weight": 0.0043
+          },
+          {
+            "word": "harker",
+            "weight": 0.0042
+          },
+          {
+            "word": "seward",
+            "weight": 0.0038
+          },
+          {
+            "word": "chapter",
+            "weight": 0.0037
+          },
+          {
+            "word": "mina",
+            "weight": 0.0035
+          },
+          {
+            "word": "diary",
+            "weight": 0.0033
+          },
+          {
+            "word": "far",
+            "weight": 0.003
+          },
+          {
+            "word": "godalming",
+            "weight": 0.003
+          },
+          {
+            "word": "stood",
+            "weight": 0.0029
+          }
+        ]
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          {
+            "word": "harker",
+            "weight": 0.0047
+          },
+          {
+            "word": "mina",
+            "weight": 0.0047
+          },
+          {
+            "word": "professor",
+            "weight": 0.0043
+          },
+          {
+            "word": "arthur",
+            "weight": 0.0037
+          },
+          {
+            "word": "mind",
+            "weight": 0.0035
+          },
+          {
+            "word": "jonathan",
+            "weight": 0.0035
+          },
+          {
+            "word": "seward",
+            "weight": 0.0034
+          },
+          {
+            "word": "want",
+            "weight": 0.0032
+          },
+          {
+            "word": "quite",
+            "weight": 0.003
+          },
+          {
+            "word": "blood",
+            "weight": 0.0029
+          }
+        ]
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          {
+            "word": "jonathan",
+            "weight": 0.0076
+          },
+          {
+            "word": "mina",
+            "weight": 0.0061
+          },
+          {
+            "word": "count",
+            "weight": 0.0059
+          },
+          {
+            "word": "madam",
+            "weight": 0.0044
+          },
+          {
+            "word": "many",
+            "weight": 0.0038
+          },
+          {
+            "word": "window",
+            "weight": 0.003
+          },
+          {
+            "word": "every",
+            "weight": 0.0029
+          },
+          {
+            "word": "round",
+            "weight": 0.0028
+          },
+          {
+            "word": "castle",
+            "weight": 0.0028
+          },
+          {
+            "word": "write",
+            "weight": 0.0027
+          }
+        ]
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          {
+            "word": "mina",
+            "weight": 0.0051
+          },
+          {
+            "word": "count",
+            "weight": 0.0048
+          },
+          {
+            "word": "jonathan",
+            "weight": 0.0043
+          },
+          {
+            "word": "bed",
+            "weight": 0.0042
+          },
+          {
+            "word": "red",
+            "weight": 0.0032
+          },
+          {
+            "word": "house",
+            "weight": 0.0032
+          },
+          {
+            "word": "window",
+            "weight": 0.0032
+          },
+          {
+            "word": "put",
+            "weight": 0.0029
+          },
+          {
+            "word": "head",
+            "weight": 0.0029
+          },
+          {
+            "word": "rest",
+            "weight": 0.0028
+          }
+        ]
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          {
+            "word": "house",
+            "weight": 0.0078
+          },
+          {
+            "word": "arthur",
+            "weight": 0.0069
+          },
+          {
+            "word": "professor",
+            "weight": 0.0059
+          },
+          {
+            "word": "opened",
+            "weight": 0.0039
+          },
+          {
+            "word": "child",
+            "weight": 0.0038
+          },
+          {
+            "word": "white",
+            "weight": 0.0038
+          },
+          {
+            "word": "felt",
+            "weight": 0.0032
+          },
+          {
+            "word": "hands",
+            "weight": 0.0031
+          },
+          {
+            "word": "heard",
+            "weight": 0.003
+          },
+          {
+            "word": "death",
+            "weight": 0.003
+          }
+        ]
+      }
+    ],
+    "word_frequencies": {
+      "said": 570,
+      "one": 503,
+      "could": 491,
+      "us": 459,
+      "must": 439,
+      "would": 432,
+      "shall": 426,
+      "may": 398,
+      "see": 394,
+      "know": 389,
+      "time": 374,
+      "come": 335,
+      "van": 323,
+      "helsing": 315,
+      "came": 309,
+      "went": 299,
+      "lucy": 296,
+      "go": 283,
+      "like": 279,
+      "back": 257,
+      "seemed": 243,
+      "man": 243,
+      "even": 242,
+      "well": 233,
+      "mina": 226,
+      "took": 224,
+      "way": 224,
+      "dear": 223,
+      "good": 222,
+      "though": 221,
+      "saw": 218,
+      "much": 218,
+      "think": 215,
+      "night": 207,
+      "hand": 206,
+      "room": 205,
+      "face": 204,
+      "jonathan": 198,
+      "count": 197,
+      "made": 195,
+      "tell": 195,
+      "door": 194,
+      "poor": 193,
+      "old": 187,
+      "eyes": 186,
+      "looked": 185,
+      "friend": 183,
+      "away": 183,
+      "great": 182,
+      "sleep": 178,
+      "things": 174,
+      "god": 174,
+      "professor": 174,
+      "get": 172,
+      "look": 170,
+      "little": 168,
+      "harker": 164,
+      "make": 162,
+      "might": 158,
+      "got": 157,
+      "day": 157,
+      "yet": 155,
+      "found": 153,
+      "men": 151,
+      "take": 150,
+      "let": 148,
+      "long": 147,
+      "say": 147,
+      "work": 144,
+      "thought": 144,
+      "arthur": 144,
+      "life": 143,
+      "asked": 143,
+      "oh": 142,
+      "something": 141,
+      "told": 141,
+      "last": 140,
+      "without": 135,
+      "fear": 135,
+      "till": 135,
+      "heart": 135,
+      "first": 134,
+      "seward": 133,
+      "place": 133,
+      "ever": 133,
+      "two": 130,
+      "house": 129,
+      "knew": 128,
+      "never": 128,
+      "done": 127,
+      "still": 117,
+      "find": 115,
+      "quite": 115,
+      "coming": 114,
+      "began": 113,
+      "want": 113,
+      "nothing": 112,
+      "window": 108,
+      "round": 108,
+      "put": 107
+    }
+  },
+  "Carmilla": {
+    "title": "Carmilla",
+    "sentiment": {
+      "scores": {
+        "positive": 0.1113,
+        "negative": 0.0731,
+        "neutral": 0.8156,
+        "compound": 0.1151
+      },
+      "overall": "positive",
+      "sentences_analyzed": 1000
+    },
+    "lexical_diversity": {
+      "total_words": 27938,
+      "unique_words": 3958,
+      "content_words": 12667,
+      "unique_content_words": 3825,
+      "type_token_ratio": 0.1417,
+      "content_ttr": 0.302,
+      "root_ttr": 23.6798,
+      "lexical_density": 0.4534
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          {
+            "word": "pretty",
+            "weight": 0.0059
+          },
+          {
+            "word": "bed",
+            "weight": 0.0056
+          },
+          {
+            "word": "gone",
+            "weight": 0.0052
+          },
+          {
+            "word": "black",
+            "weight": 0.0051
+          },
+          {
+            "word": "heart",
+            "weight": 0.0045
+          },
+          {
+            "word": "hair",
+            "weight": 0.0044
+          },
+          {
+            "word": "foot",
+            "weight": 0.0044
+          },
+          {
+            "word": "dark",
+            "weight": 0.0044
+          },
+          {
+            "word": "fixed",
+            "weight": 0.0042
+          },
+          {
+            "word": "years",
+            "weight": 0.0042
+          }
+        ]
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          {
+            "word": "stories",
+            "weight": 0.0102
+          },
+          {
+            "word": "bed",
+            "weight": 0.0082
+          },
+          {
+            "word": "ghost",
+            "weight": 0.0072
+          },
+          {
+            "word": "letter",
+            "weight": 0.0072
+          },
+          {
+            "word": "light",
+            "weight": 0.0062
+          },
+          {
+            "word": "mademoiselle",
+            "weight": 0.0051
+          },
+          {
+            "word": "dark",
+            "weight": 0.0042
+          },
+          {
+            "word": "taken",
+            "weight": 0.0042
+          },
+          {
+            "word": "right",
+            "weight": 0.0042
+          },
+          {
+            "word": "trees",
+            "weight": 0.0042
+          }
+        ]
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          {
+            "word": "madame",
+            "weight": 0.0096
+          },
+          {
+            "word": "carriage",
+            "weight": 0.0094
+          },
+          {
+            "word": "daughter",
+            "weight": 0.0039
+          },
+          {
+            "word": "years",
+            "weight": 0.0039
+          },
+          {
+            "word": "head",
+            "weight": 0.0039
+          },
+          {
+            "word": "castle",
+            "weight": 0.0038
+          },
+          {
+            "word": "believe",
+            "weight": 0.0038
+          },
+          {
+            "word": "return",
+            "weight": 0.0037
+          },
+          {
+            "word": "three",
+            "weight": 0.0036
+          },
+          {
+            "word": "hear",
+            "weight": 0.0034
+          }
+        ]
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          {
+            "word": "doctor",
+            "weight": 0.0049
+          },
+          {
+            "word": "vampire",
+            "weight": 0.0049
+          },
+          {
+            "word": "bed",
+            "weight": 0.0045
+          },
+          {
+            "word": "man",
+            "weight": 0.004
+          },
+          {
+            "word": "schloss",
+            "weight": 0.0039
+          },
+          {
+            "word": "three",
+            "weight": 0.0039
+          },
+          {
+            "word": "together",
+            "weight": 0.0039
+          },
+          {
+            "word": "years",
+            "weight": 0.0036
+          },
+          {
+            "word": "mircalla",
+            "weight": 0.0036
+          },
+          {
+            "word": "certain",
+            "weight": 0.0036
+          }
+        ]
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          {
+            "word": "doctor",
+            "weight": 0.0085
+          },
+          {
+            "word": "madame",
+            "weight": 0.0065
+          },
+          {
+            "word": "poor",
+            "weight": 0.0048
+          },
+          {
+            "word": "mask",
+            "weight": 0.0041
+          },
+          {
+            "word": "sleep",
+            "weight": 0.0039
+          },
+          {
+            "word": "another",
+            "weight": 0.0039
+          },
+          {
+            "word": "mine",
+            "weight": 0.0037
+          },
+          {
+            "word": "millarca",
+            "weight": 0.0036
+          },
+          {
+            "word": "daughter",
+            "weight": 0.0034
+          },
+          {
+            "word": "perhaps",
+            "weight": 0.0034
+          }
+        ]
+      }
+    ],
+    "word_frequencies": {
+      "said": 114,
+      "father": 90,
+      "one": 82,
+      "could": 77,
+      "little": 74,
+      "carmilla": 70,
+      "upon": 69,
+      "room": 68,
+      "us": 66,
+      "time": 64,
+      "lady": 60,
+      "would": 59,
+      "saw": 52,
+      "old": 51,
+      "madame": 50,
+      "general": 49,
+      "see": 48,
+      "young": 48,
+      "two": 45,
+      "long": 45,
+      "know": 44,
+      "tell": 43,
+      "night": 42,
+      "quite": 41,
+      "like": 41,
+      "door": 39,
+      "moment": 39,
+      "doctor": 38,
+      "say": 38,
+      "eyes": 38,
+      "dear": 38,
+      "came": 37,
+      "shall": 36,
+      "think": 36,
+      "great": 35,
+      "never": 35,
+      "well": 35,
+      "face": 34,
+      "bed": 34,
+      "answered": 32,
+      "hand": 32,
+      "beautiful": 32,
+      "nothing": 30,
+      "made": 30,
+      "come": 30,
+      "seemed": 30,
+      "people": 29,
+      "looking": 29,
+      "without": 29,
+      "must": 28,
+      "life": 28,
+      "may": 28,
+      "much": 27,
+      "ever": 27,
+      "looked": 27,
+      "even": 26,
+      "first": 26,
+      "asked": 26,
+      "seen": 26,
+      "heard": 26,
+      "many": 25,
+      "good": 25,
+      "poor": 25,
+      "years": 24,
+      "away": 24,
+      "might": 24,
+      "child": 24,
+      "something": 24,
+      "near": 24,
+      "day": 23,
+      "last": 23,
+      "strange": 22,
+      "passed": 22,
+      "black": 22,
+      "carriage": 22,
+      "lost": 21,
+      "mademoiselle": 21,
+      "told": 21,
+      "soon": 21,
+      "karnstein": 20,
+      "almost": 20,
+      "every": 20,
+      "pretty": 20,
+      "thought": 20,
+      "began": 20,
+      "head": 20,
+      "sleep": 20,
+      "story": 19,
+      "schloss": 19,
+      "three": 19,
+      "still": 19,
+      "take": 19,
+      "till": 19,
+      "point": 19,
+      "vampire": 19,
+      "man": 18,
+      "name": 18,
+      "left": 18,
+      "hear": 18,
+      "letter": 18
+    }
+  },
+  "Frankenstein": {
+    "title": "Frankenstein",
+    "sentiment": {
+      "scores": {
+        "positive": 0.1281,
+        "negative": 0.0983,
+        "neutral": 0.7736,
+        "compound": 0.0757
+      },
+      "overall": "positive",
+      "sentences_analyzed": 1000
+    },
+    "lexical_diversity": {
+      "total_words": 74602,
+      "unique_words": 6887,
+      "content_words": 34050,
+      "unique_content_words": 6758,
+      "type_token_ratio": 0.0923,
+      "content_ttr": 0.1985,
+      "root_ttr": 25.2148,
+      "lexical_density": 0.4564
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          {
+            "word": "chapter",
+            "weight": 0.0035
+          },
+          {
+            "word": "feel",
+            "weight": 0.0032
+          },
+          {
+            "word": "friend",
+            "weight": 0.0031
+          },
+          {
+            "word": "ice",
+            "weight": 0.0029
+          },
+          {
+            "word": "misery",
+            "weight": 0.0026
+          },
+          {
+            "word": "men",
+            "weight": 0.0026
+          },
+          {
+            "word": "sea",
+            "weight": 0.0026
+          },
+          {
+            "word": "whose",
+            "weight": 0.0024
+          },
+          {
+            "word": "us",
+            "weight": 0.0023
+          },
+          {
+            "word": "return",
+            "weight": 0.0022
+          }
+        ]
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          {
+            "word": "elizabeth",
+            "weight": 0.0075
+          },
+          {
+            "word": "happiness",
+            "weight": 0.005
+          },
+          {
+            "word": "lake",
+            "weight": 0.0039
+          },
+          {
+            "word": "love",
+            "weight": 0.0037
+          },
+          {
+            "word": "friend",
+            "weight": 0.0033
+          },
+          {
+            "word": "peace",
+            "weight": 0.0028
+          },
+          {
+            "word": "see",
+            "weight": 0.0028
+          },
+          {
+            "word": "us",
+            "weight": 0.0028
+          },
+          {
+            "word": "sometimes",
+            "weight": 0.0027
+          },
+          {
+            "word": "among",
+            "weight": 0.0027
+          }
+        ]
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          {
+            "word": "cottage",
+            "weight": 0.0034
+          },
+          {
+            "word": "old",
+            "weight": 0.0034
+          },
+          {
+            "word": "young",
+            "weight": 0.0031
+          },
+          {
+            "word": "several",
+            "weight": 0.0031
+          },
+          {
+            "word": "another",
+            "weight": 0.0028
+          },
+          {
+            "word": "little",
+            "weight": 0.0028
+          },
+          {
+            "word": "felix",
+            "weight": 0.0027
+          },
+          {
+            "word": "fire",
+            "weight": 0.0027
+          },
+          {
+            "word": "youth",
+            "weight": 0.0025
+          },
+          {
+            "word": "sun",
+            "weight": 0.0024
+          }
+        ]
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          {
+            "word": "felix",
+            "weight": 0.0061
+          },
+          {
+            "word": "cottage",
+            "weight": 0.005
+          },
+          {
+            "word": "agatha",
+            "weight": 0.0036
+          },
+          {
+            "word": "friends",
+            "weight": 0.0034
+          },
+          {
+            "word": "old",
+            "weight": 0.0029
+          },
+          {
+            "word": "elizabeth",
+            "weight": 0.0027
+          },
+          {
+            "word": "journey",
+            "weight": 0.0027
+          },
+          {
+            "word": "sun",
+            "weight": 0.0026
+          },
+          {
+            "word": "scene",
+            "weight": 0.0026
+          },
+          {
+            "word": "mountains",
+            "weight": 0.0026
+          }
+        ]
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          {
+            "word": "justine",
+            "weight": 0.006
+          },
+          {
+            "word": "elizabeth",
+            "weight": 0.0048
+          },
+          {
+            "word": "dear",
+            "weight": 0.0046
+          },
+          {
+            "word": "poor",
+            "weight": 0.0042
+          },
+          {
+            "word": "clerval",
+            "weight": 0.0041
+          },
+          {
+            "word": "see",
+            "weight": 0.0034
+          },
+          {
+            "word": "long",
+            "weight": 0.0031
+          },
+          {
+            "word": "friend",
+            "weight": 0.003
+          },
+          {
+            "word": "us",
+            "weight": 0.003
+          },
+          {
+            "word": "several",
+            "weight": 0.0029
+          }
+        ]
+      }
+    ],
+    "word_frequencies": {
+      "one": 202,
+      "could": 196,
+      "would": 183,
+      "yet": 152,
+      "man": 136,
+      "father": 133,
+      "upon": 126,
+      "life": 112,
+      "every": 109,
+      "first": 108,
+      "might": 108,
+      "shall": 104,
+      "eyes": 104,
+      "said": 102,
+      "may": 99,
+      "time": 97,
+      "towards": 94,
+      "even": 94,
+      "saw": 94,
+      "elizabeth": 89,
+      "night": 87,
+      "found": 87,
+      "mind": 85,
+      "day": 82,
+      "felt": 79,
+      "ever": 78,
+      "heart": 76,
+      "feelings": 76,
+      "death": 75,
+      "thought": 74,
+      "dear": 72,
+      "soon": 71,
+      "made": 70,
+      "friend": 70,
+      "many": 68,
+      "still": 68,
+      "passed": 67,
+      "never": 66,
+      "also": 66,
+      "must": 64,
+      "miserable": 64,
+      "thus": 63,
+      "heard": 62,
+      "became": 61,
+      "like": 61,
+      "sometimes": 60,
+      "us": 60,
+      "love": 59,
+      "little": 58,
+      "human": 58,
+      "place": 58,
+      "appeared": 57,
+      "indeed": 56,
+      "clerval": 55,
+      "justine": 55,
+      "often": 54,
+      "although": 53,
+      "misery": 53,
+      "friends": 53,
+      "country": 52,
+      "nature": 52,
+      "words": 52,
+      "several": 51,
+      "among": 51,
+      "cottage": 51,
+      "whose": 50,
+      "great": 50,
+      "see": 50,
+      "old": 50,
+      "away": 50,
+      "hope": 50,
+      "happiness": 49,
+      "know": 49,
+      "felix": 49,
+      "chapter": 48,
+      "feel": 48,
+      "return": 48,
+      "despair": 48,
+      "another": 47,
+      "days": 47,
+      "voice": 46,
+      "long": 46,
+      "happy": 46,
+      "sun": 45,
+      "world": 44,
+      "years": 44,
+      "men": 44,
+      "poor": 44,
+      "scene": 44,
+      "much": 43,
+      "well": 43,
+      "creature": 43,
+      "alone": 43,
+      "horror": 43,
+      "came": 42,
+      "light": 41,
+      "fear": 40,
+      "joy": 40,
+      "affection": 40,
+      "far": 39
+    }
+  }
+}
